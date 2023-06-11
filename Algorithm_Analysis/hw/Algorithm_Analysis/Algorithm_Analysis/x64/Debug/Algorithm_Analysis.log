@@ -1,0 +1,2 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1096,5): error MSB6006: "link.exe"이(가) 종료되었습니다(코드: 1168).
+LINK : fatal error LNK1168: C:\Users\tlsgn\Desktop\hgu_courses\Algorithm_Analysis\hw\Algorithm_Analysis\x64\Debug\Algorithm_Analysis.exe을(를) 쓰기용으로 열 수 없습니다.

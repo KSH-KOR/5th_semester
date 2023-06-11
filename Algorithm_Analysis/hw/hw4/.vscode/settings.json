@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "algorithm": "cpp",
+        "xstring": "cpp",
+        "cstddef": "cpp",
+        "iostream": "cpp",
+        "utility": "cpp",
+        "ostream": "cpp",
+        "deque": "cpp",
+        "exception": "cpp",
+        "iterator": "cpp",
+        "stdexcept": "cpp",
+        "streambuf": "cpp",
+        "xlocale": "cpp",
+        "xutility": "cpp",
+        "optional": "cpp",
+        "system_error": "cpp",
+        "type_traits": "cpp",
+        "xtr1common": "cpp",
+        "queue": "cpp",
+        "string": "cpp"
+    }
+}
